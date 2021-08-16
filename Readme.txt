@@ -1,6 +1,6 @@
 Please find as per journal:
 
-RAW data is given as file names
+a) RAW data is given as file names
 
 Mode 1 = Mode1.csv
 Mode 2 = Mode2.csv
@@ -9,12 +9,18 @@ Mode 4 = Mode4.csv
 Mode 5 = Mode5.csv
 Mode 6 = Mode6.csv
 
-One cycle represents 170 samples in time.
+b) One cycle represents 170 samples in time.
 Maximum digital amplitude quantisation are 1023.
 Ratio of sensor conversion added to the value to obtain real values of amplitude.
-R-Y-B equals to 1-2-3 sequence of phase.
-v=voltage and i=current
-Example v2= voltage phase two (phase yellow)
 
+c) R-Y-B equals to 1-2-3 sequence of phase.
+
+d) v=voltage 
+Example: v2= voltage phase two (phase yellow)
+Voltage digital quantization unit = 1.2Volt/sample
+
+e) I=current
+Example: i1= current phase one (phase red)
+Current digital quantization unit = 0.85Amp/sample
 
 By Author K.Shashikumar
