@@ -23,4 +23,6 @@ e) I=current
 Example: i1= current phase one (phase red)
 Current digital quantization unit = 0.85Amp/sample
 
+Cite the codeL  [![DOI](https://zenodo.org/badge/396623025.svg)](https://zenodo.org/badge/latestdoi/396623025)
+
 By Author K.Shashikumar
